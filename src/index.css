@@ -5,3 +5,21 @@ body {
 
     background-color: #0a0a57;
 }
+
+@media (max-width: 1080px) {
+    html {
+        font-size: 93.75%;
+    }
+}
+
+@media (max-width: 720px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+@media (max-width: 560px) {
+    html {
+        font-size: 70%;
+    }
+}
